@@ -1,0 +1,17 @@
+{
+  "name": "ts_task",
+  "version": "1.0.0",
+  "description": "task",
+  "main": "main.js",
+  "author": "Rinat",
+  "scripts": {
+    "build": "tsc"
+  },
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "@types/node": "^20.12.8",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}
